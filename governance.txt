@@ -1,3 +1,6 @@
 */This is the test git for governance
 var PSS=tvar
 var SSP="1105"& "1204"
+var ASIA="0936"
+*/For ASIA, all the orders will be in scope
+
